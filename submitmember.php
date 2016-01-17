@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
-$username = "adminJKPBdZ5";
-$password = "kzRMy7RkRzQm";
+$username = "adminhcbj1nY";
+$password = "aEGIKm4BbQmv";
 $dbname = "sschange";
 header("Content-Type:text/html; charset=utf-8");
 // Create connection
